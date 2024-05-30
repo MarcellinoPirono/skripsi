@@ -1,1 +1,1 @@
-# skripsi
+skripsi
